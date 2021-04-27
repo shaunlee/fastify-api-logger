@@ -4,6 +4,10 @@
 
 Add APIs logger to fastify
 
+## Install
+
+`npm install --save fastify-api-logger`
+
 ## Usage
 
 ```js
