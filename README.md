@@ -18,7 +18,7 @@ fastify.register(require('fastify-api-logger'))
 
 ## Demo
 
-![fastify-api-logger](demo.png)
+![fastify-api-logger](https://raw.githubusercontent.com/shaunlee/fastify-api-logger/master/demo.png)
 
 ## License
 
