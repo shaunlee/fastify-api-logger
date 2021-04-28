@@ -14,6 +14,8 @@ Simple and straightforward API request/response single line data logging for Fas
 const fastify = require('fastify')
 
 fastify.register(require('fastify-api-logger'))
+
+// log format: [ip] [user id?] [method] [status code] [path] [response time] [request payload?] [reply payload]
 ```
 
 ## Demo
