@@ -17,6 +17,7 @@ fastify.register(require('fastify-api-logger'), {
   user: 'userId',
   level: 'debug',
   prettyPrint: true, // You may want to turn off prettyPrint in production
+  sensitiveUrls: [], // Ignore sensitive URLs
 })
 
 // log format:
