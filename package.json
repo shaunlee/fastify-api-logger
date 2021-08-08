@@ -1,6 +1,6 @@
 {
   "name": "fastify-api-logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple and straightforward API request/response single line data logging for Fastify",
   "main": "./lib/index.js",
   "keywords": [
